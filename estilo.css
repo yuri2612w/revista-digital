@@ -7,3 +7,6 @@ body{
     background: linear-gradient(to right, #e63946 30%, black 60%);
 
  }
+.cabecalho img{ 
+    text-align: center;
+}
