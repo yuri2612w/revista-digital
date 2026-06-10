@@ -1,10 +1,10 @@
 body{
     background-color: aquamarine;
-    color: rgb(0, 0, 0);
+    color: black (0, 0, 0);
 
 }
  cabecalho{ 
-    background: linear-gradient(to right, #e63946 30%, black 30%);
+    background: linear-gradient(to right, aquamarine 30%,black 30%);
 
  }
 .cabecalho img{ 
