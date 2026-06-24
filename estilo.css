@@ -19,8 +19,11 @@ body{
     margin-left: 30%;
 }
 .article{
-    background: black;
+    background: linear-gradient(to right, aquamarine 30%,black 30%);;
     text-align: ;
     color: white;
 
+}
+.article2{
+    
 }
