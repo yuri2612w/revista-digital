@@ -18,8 +18,11 @@ body{
 .cabecalho h1{
     margin-left: 30%;
 }
+.segundo-texto{
+    background: linear-gradient(to right, black 30%,aquamarine 30%);
+}
 .article{
-    background: linear-gradient(to right, black 30%,aquamarine 30%);;
+    background: linear-gradient(to right, black 30%,aquamarine 30%);
     text-align: ;
     color: white;
 
