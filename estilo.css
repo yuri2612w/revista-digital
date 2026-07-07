@@ -46,3 +46,7 @@ body{
 .segundo-texto-img{
     width:10%;
 }
+.segundo-texto-direito{
+    background-color: azure;
+    padding: 32px;
+}
