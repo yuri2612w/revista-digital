@@ -34,3 +34,9 @@ body{
 .article2{
     color: white;
 }
+.conteudo2{
+     display: flex;
+     padding: 32px;
+     justify-content: center;
+     align-items: center;
+}
