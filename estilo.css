@@ -36,7 +36,7 @@ body{
 }
 .conteudo2{
      display: flex;
-     padding: 2px;
+     padding: 32px;
      justify-content: center;
      align-items: center;
 }
