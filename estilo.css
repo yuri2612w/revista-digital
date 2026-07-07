@@ -35,11 +35,12 @@ body{
     background: linear-gradient(to right, black 40%,aquamarine 30%);
     text-align: center ;
     color: white;
-   padding: 20px;
+    padding: 20px;
 }
 
 .article2{
     color: black;
+    padding: 32px;
 }
 
 .segundo-texto-img{
