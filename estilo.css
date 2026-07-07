@@ -24,11 +24,6 @@ body{
 }
 .segundo-texto{
     background: linear-gradient(to right, black 30%,aquamarine 30%);
-}
-.article{
-    background: linear-gradient(to right, black 40%,aquamarine 30%);
-    text-align: center ;
-    color: white;
      display: flex;
      padding: 32px;
      justify-content: center;
@@ -36,6 +31,12 @@ body{
      width: 20%;
 }
 
+.article{
+    background: linear-gradient(to right, black 40%,aquamarine 30%);
+    text-align: center ;
+    color: white;
+    
+}
 
 .article2{
     color: white;
