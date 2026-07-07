@@ -29,15 +29,14 @@ body{
     background: linear-gradient(to right, black 40%,aquamarine 30%);
     text-align: center ;
     color: white;
-
-}
-.article2{
-    color: white;
-}
-.conteudo2{
      display: flex;
      padding: 32px;
      justify-content: center;
      align-items: center;
      width: 20%;
+}
+
+
+.article2{
+    color: white;
 }
