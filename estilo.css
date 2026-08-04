@@ -32,9 +32,9 @@ body{
 }
 
 .article{
-    text-align: center ;
     color: white;
     padding: 32px;
+
 }
 
 .article2{
@@ -50,5 +50,5 @@ body{
     padding: 32px;
 }
 .article-fundo{
-    
+
 }
