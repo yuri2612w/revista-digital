@@ -35,8 +35,7 @@ body{
     background: linear-gradient(to right, black 40%,aquamarine 40%);
     text-align: center ;
     color: white;
-    padding: 20px;
-    display: flex;
+    padding: 32px;
 }
 
 .article2{
