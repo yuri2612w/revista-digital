@@ -32,7 +32,6 @@ body{
 }
 
 .article{
-    background: linear-gradient(to right, black 40%,aquamarine 40%);
     text-align: center ;
     color: white;
     padding: 32px;
